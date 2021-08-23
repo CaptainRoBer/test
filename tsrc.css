@@ -1,0 +1,11 @@
+body .wrp_code{
+	background: url(http://8.131.69.99/t.png);
+	width: 280px;
+	height: 280px;
+	margin: 0 auto;
+}
+.impowerBox .qrcode {
+    width: 0px;
+    margin-top: 15px;
+    border: 1px solid #E2E2E2
+}
