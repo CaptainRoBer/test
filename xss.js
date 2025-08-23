@@ -1,3 +1,1 @@
-alert(/xss/);
-alert(location.href);
-alert(document.cookie);
+alert('XSS'+'\nURL:\t'+location.href+'\nCookie:\t'+document.cookie);
